@@ -1,4 +1,4 @@
 Hi! ✨
 
-Five years ago, I started with the programming language C#. After a while, I learned frontend technologies such as HTML/CSS and, bootstrap. Afterwards, I started developing some extra skills on my own and learned JavaScript. Subsequently, I applied for a frontend position. Being a frontend developer allowed me to learn many other skills including jQuery, ASP.NET MVC. Additionally,I learned the Agile methodologies and used Scrum. I am still working on developing other frontend skills such as React and Vue.
-I’m always interested and willing to find solutions for the problems I encounter doing my work.
+Experienced Web Developer is adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of frontend of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including JavaScript, TypeScript, React, Next, Vue, Nuxt, ASP.NET Razor and HTML/CSS, Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+I’m always interested and willing to find solutions to the problems I encounter doing my work.
