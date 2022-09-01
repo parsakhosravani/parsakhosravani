@@ -4,6 +4,4 @@ Experienced Web Developer is adept in all stages of advanced web development. Kn
 I’m always interested and willing to find solutions to the problems I encounter doing my work.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsakhosravani)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsakhosravani&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsakhosravani&show_icons=true&theme=radical)
