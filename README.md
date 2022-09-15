@@ -6,4 +6,6 @@ I’m always interested and willing to find solutions to the problems I encounte
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsakhosravani&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani)](https://github.com/parsakhosravani/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&show_icons=true&theme=radical)](https://github.com/parsakhosravani/github-readme-stats)
