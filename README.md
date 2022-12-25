@@ -1,4 +1,4 @@
-Hi! ✨
+<b>Hi! ✨</b>
 
 Experienced Web Developer is adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of frontend of web systems. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
