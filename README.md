@@ -1,4 +1,5 @@
 # Hi! ✨
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hadikhosravanii)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsa-hadi/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:parsakhosravani@gmail.com)
@@ -15,15 +16,6 @@
 <a href="https://github.com/parsakhosravani">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&theme=dark" />
 </a>
-<br>
-<br>
-<a href="https://wakatime.com/share/@parsakhosravani/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@8dba0f0c-d201-42c3-abfa-cdadaf415352/8ad9ab4f-8e88-4d0c-ad63-2c62753f489f.svg" />
-</a>
-<a href="https://wakatime.com/share/@parsakhosravani/e977423f-cb3a-476e-bec2-2512b867456d.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@8dba0f0c-d201-42c3-abfa-cdadaf415352/8ad9ab4f-8e88-4d0c-ad63-2c62753f489f.svg" />
-</a>
-<br>
 <br>
 
 ## Skills
