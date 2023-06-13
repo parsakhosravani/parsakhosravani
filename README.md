@@ -8,26 +8,20 @@
 
 ### I’m always interested and willing to find solutions to the problems I encounter doing my work.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsakhosravani&show_icons=true&hide=stars&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&theme=radical&layout=compact)](https://github.com/parsakhosravani/github-readme-stats)
-
 <br>
-<a href="https://github.com/behzad888">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=behzad888&hide=stars&show_icons=true&theme=dark&time=now" />
+<a href="https://github.com/parsakhosravani">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=parsakhosravani&hide=stars&show_icons=true&theme=dark&time=now" />
 </a>
-<a href="https://github.com/behzad888">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzad888&layout=compact&theme=dark" />
+<a href="https://github.com/parsakhosravani">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&theme=dark" />
 </a>
 <br>
 <br>
-<a href="https://wakatime.com/share/@behzad88/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@behzad88/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg" />
+<a href="https://wakatime.com/share/@parsakhosravani/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg">
+  <img height="300" align="top" src="https://wakatime.com/share/@parsakhosravani/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg" />
 </a>
-<a href="https://wakatime.com/share/@behzad88/e977423f-cb3a-476e-bec2-2512b867456d.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@behzad88/e977423f-cb3a-476e-bec2-2512b867456d.svg" />
+<a href="https://wakatime.com/share/@parsakhosravani/e977423f-cb3a-476e-bec2-2512b867456d.svg">
+  <img height="300" align="top" src="https://wakatime.com/share/@parsakhosravani/e977423f-cb3a-476e-bec2-2512b867456d.svg" />
 </a>
 <br>
 <br>
