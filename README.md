@@ -18,10 +18,10 @@
 <br>
 <br>
 <a href="https://wakatime.com/share/@parsakhosravani/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@parsakhosravani/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg" />
+  <img height="300" align="top" src="https://wakatime.com/share/@8dba0f0c-d201-42c3-abfa-cdadaf415352/8ad9ab4f-8e88-4d0c-ad63-2c62753f489f.svg" />
 </a>
 <a href="https://wakatime.com/share/@parsakhosravani/e977423f-cb3a-476e-bec2-2512b867456d.svg">
-  <img height="300" align="top" src="https://wakatime.com/share/@parsakhosravani/e977423f-cb3a-476e-bec2-2512b867456d.svg" />
+  <img height="300" align="top" src="https://wakatime.com/share/@8dba0f0c-d201-42c3-abfa-cdadaf415352/8ad9ab4f-8e88-4d0c-ad63-2c62753f489f.svg" />
 </a>
 <br>
 <br>
