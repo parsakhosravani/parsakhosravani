@@ -14,6 +14,24 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&theme=radical&layout=compact)](https://github.com/parsakhosravani/github-readme-stats)
 
+<br>
+<a href="https://github.com/behzad888">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=behzad888&hide=stars&show_icons=true&theme=dark&time=now" />
+</a>
+<a href="https://github.com/behzad888">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzad888&layout=compact&theme=dark" />
+</a>
+<br>
+<br>
+<a href="https://wakatime.com/share/@behzad88/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg">
+  <img height="300" align="top" src="https://wakatime.com/share/@behzad88/7372f96b-cd90-41d8-9376-3a1bfdc76225.svg" />
+</a>
+<a href="https://wakatime.com/share/@behzad88/e977423f-cb3a-476e-bec2-2512b867456d.svg">
+  <img height="300" align="top" src="https://wakatime.com/share/@behzad88/e977423f-cb3a-476e-bec2-2512b867456d.svg" />
+</a>
+<br>
+<br>
+
 ## Skills
 
 ![](https://img.shields.io/badge/JavaScript-%20-yellow?style=flat&logo=javascript&color=f7df1d&logoColor=white)
@@ -23,9 +41,6 @@
 ![](https://img.shields.io/badge/Vue-%20-blue?style=flat&logo=vuedotjs&color=4fc08d)
 ![](https://img.shields.io/badge/Vuex-%20-black?style=flat&logo=vuedotjs&color=764abc)
 ![](https://img.shields.io/badge/Next-%20-black?style=flat&logo=next.js)
-![](https://img.shields.io/badge/Gatsby-%20-black?style=flat&logo=gatsby&color=663399)
-![](https://img.shields.io/badge/Angular-%20-black?style=flat&logo=Angular&color=DD0031)
-![](https://img.shields.io/badge/Aurelia-%20-black?style=flat&logo=aurelia&color=ED2B88)
 
 ![](https://img.shields.io/badge/Jest-%20-black?style=flat&logo=jest&color=c21325)
 ![](https://img.shields.io/badge/Testing%20Library-%20-black?style=flat&logo=testing-library&color=e33332&logoColor=white)
@@ -48,17 +63,4 @@
 ![](https://img.shields.io/badge/PostreSQL-%20-black?style=flat&logo=postgresql&color=336791&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=MongoDb&color=47A248&logoColor=white)
 
-[![Leanpub](https://img.shields.io/badge/Beginning%20Aurelia-%20-black?style=flat&logo=leanpub&color=FDFDFD&logoColor=white)](https://leanpub.com/beginning-of-aurelia)
-[![Leanpub](https://img.shields.io/badge/Practical%20Aurelia-%20-black?style=flat&logo=leanpub&color=FDFDFD&logoColor=white)](https://leanpub.com/practical-aurelia)
-
-- ⚡ Fun fact: I'm a full-stack developer!
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fact: I'm a front-end developer!
