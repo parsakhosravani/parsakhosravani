@@ -1,7 +1,7 @@
 # Hi! ✨
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/parsakhosravany)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsa-hadi/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/parsakhosravan1)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakhosravani/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:parsakhosravani@gmail.com)
 
 ### I'm Parsa, an Experienced Web Developer is adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. 
@@ -44,8 +44,6 @@
 ![](https://img.shields.io/badge/.net%20core-%20-black?style=flat&logo=.net&color=5C2D91&logoColor=white)
 ![](https://img.shields.io/badge/NodeJS-%20-black?style=flat&logo=Node.js&color=339933&logoColor=white)
 
-![](https://img.shields.io/badge/Microsoft%20SQL%20Server-%20-black?style=flat&logo=microsoft-sql-server&color=CC2927&logoColor=white)
-![](https://img.shields.io/badge/Redis-%20-black?style=flat&logo=redis&color=DC382D&logoColor=white)
 ![](https://img.shields.io/badge/PostreSQL-%20-black?style=flat&logo=postgresql&color=336791&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=MongoDb&color=47A248&logoColor=white)
 
