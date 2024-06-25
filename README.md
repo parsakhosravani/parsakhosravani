@@ -1,12 +1,11 @@
-# Hi! ✨
+# Hey! ✨✨✨
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/parsakhosravan1)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakhosravani/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:parsakhosravani@gmail.com)
 
-### I'm Parsa, an Experienced Web Developer is adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. 
-### Bringing forth expertise in design, installation, testing and maintenance of frontend of web systems. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
-
+### I'm Parsa, a Frontend Developer, I bring a wealth of knowledge and skills to the table. My proficiency spans all stages of web development, from designing intuitive user interfaces to rigorous testing and debugging.
+### I specialize in creating and maintaining robust front-end systems that enhance user experiences and drive engagement.
 ### I’m always interested and willing to find solutions to the problems I encounter doing my work.
 
 <br>
