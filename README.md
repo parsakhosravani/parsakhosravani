@@ -6,7 +6,7 @@
 
 ### I'm Parsa, a Frontend Developer. I bring a wealth of knowledge and skills to the table. My proficiency spans all stages of web development, from designing intuitive user interfaces to rigorous testing and debugging. I specialize in creating and maintaining robust front-end systems that enhance user experiences and drive engagement. I’m always interested and willing to find solutions to the problems I encounter doing my work.
 
-<br>
+<br/>
 
 <a href="https://github.com/parsakhosravani">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=parsakhosravani&hide=stars&show_icons=true&theme=dark" />
@@ -15,25 +15,25 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&theme=dark" />
 </a>
 
-<br>
+<br/>
 
 <a href="https://git.io/streak-stats">
   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=parsakhosravani&theme=dark" alt="GitHub Streak" />
 </a>
 
-<br>
+<br/>
 
 <a href="https://github.com/parsakhosravani">
   <img align="top" src="https://github-profile-trophy.vercel.app/?username=parsakhosravani&theme=darkhub" alt="GitHub Trophy" />
 </a>
 
-<br>
+<br/>
 
 <a href="https://github.com/parsakhosravani">
   <img align="top" src="https://github-readme-activity-graph.cyclic.app/graph?username=parsakhosravani&theme=github-dark" alt="GitHub Activity Graph" />
 </a>
 
-<br>
+<br/>
 
 ## 🛠 Skills
 
@@ -64,26 +64,7 @@
 ![](https://img.shields.io/badge/PostreSQL-%20-black?style=flat&logo=postgresql&color=336791&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=MongoDb&color=47A248&logoColor=white)
 
-<br>
+<br/>
 
-## 📊 WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<br>
-
-## 🎵 Now Playing
-
-<!-- Spotify Now Playing integration goes here -->
-<!--
-To integrate Spotify Now Playing, you need to set up the Spotify API:
-1. Go to https://github.com/kittinan/spotify-github-profile
-2. Follow the instructions to create a Spotify application and configure the integration.
-3. Uncomment the below section and replace the placeholder with your Spotify user ID.
--->
-
-[Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem)
-
-<br>
 
 - ⚡ Fact: I'm a front-end developer!
