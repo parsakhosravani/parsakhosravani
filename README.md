@@ -30,7 +30,7 @@
 <br/>
 
 <a href="https://github.com/parsakhosravani">
-  <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=parsakhosravani&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Activity Graph" />
+  <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=parsakhosravani&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Activity Graph" />
 </a>
 
 <br/>
