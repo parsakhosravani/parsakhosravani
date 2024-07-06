@@ -15,6 +15,16 @@
 <a href="https://github.com/parsakhosravani">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&theme=dark" />
 </a>
+<a href="https://git.io/streak-stats">
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=parsakhosravani&theme=dark" alt="GitHub Streak" />
+</a>
+<br>
+<a href="https://github.com/parsakhosravani">
+  <img align="top" src="https://github-profile-trophy.vercel.app/?username=parsakhosravani&theme=darkhub" alt="GitHub Trophy" />
+</a>
+<a href="https://github.com/parsakhosravani">
+  <img align="top" src="https://github-readme-activity-graph.cyclic.app/graph?username=parsakhosravani&theme=github-dark" alt="GitHub Activity Graph" />
+</a>
 <br>
 
 ## Skills
@@ -46,4 +56,9 @@
 ![](https://img.shields.io/badge/PostreSQL-%20-black?style=flat&logo=postgresql&color=336791&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=MongoDb&color=47A248&logoColor=white)
 
-- ⚡ Fact: I'm a front-end developer!
+## 📊 WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🎵 Now Playing
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31xagwyhpxzs3cp44bgswp4bhywu&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31xagwyhpxzs3cp44bgswp4bhywu&redirect=true)
