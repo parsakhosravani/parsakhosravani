@@ -11,12 +11,12 @@
 <a href="https://github.com/parsakhosravani">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=parsakhosravani&hide=stars&show_icons=true&theme=dark" />
 </a>
-<br/>
 
 <a href="https://github.com/parsakhosravani">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&theme=dark" />
 </a>
 
+<br/>
 <br/>
 
 <a href="https://git.io/streak-stats">
@@ -24,11 +24,13 @@
 </a>
 
 <br/>
+<br/>
 
 <a href="https://github.com/parsakhosravani">
   <img align="top" src="https://github-profile-trophy.vercel.app/?username=parsakhosravani&theme=darkhub" alt="GitHub Trophy" />
 </a>
 
+<br/>
 <br/>
 
 ## 🛠 Skills
