@@ -75,7 +75,9 @@ To integrate WakaTime stats, you need to set up the WakaTime GitHub Readme Stats
 2. Follow the instructions to create a WakaTime API key and configure the GitHub action in your repository.
 3. Uncomment the below section and replace the placeholder with your WakaTime username.
 -->
-
+              - name: waka-readme-stats
+                uses: miermontoto/waka-readme-stats@v5
+            
 [WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dark)
 
 <br>
