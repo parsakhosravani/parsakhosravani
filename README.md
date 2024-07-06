@@ -76,7 +76,7 @@ To integrate WakaTime stats, you need to set up the WakaTime GitHub Readme Stats
 3. Uncomment the below section and replace the placeholder with your WakaTime username.
 -->
 
-<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dark) -->
+[WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dark)
 
 <br>
 
@@ -90,7 +90,7 @@ To integrate Spotify Now Playing, you need to set up the Spotify API:
 3. Uncomment the below section and replace the placeholder with your Spotify user ID.
 -->
 
-<!-- ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem) -->
+[Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem)
 
 <br>
 
