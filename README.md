@@ -19,13 +19,6 @@
 <br/>
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=parsakhosravani&theme=dark" alt="GitHub Streak" />
-</a>
-
-<br/>
-<br/>
-
 <a href="https://github.com/parsakhosravani">
   <img align="top" src="https://github-profile-trophy.vercel.app/?username=parsakhosravani&theme=darkhub" alt="GitHub Trophy" />
 </a>
