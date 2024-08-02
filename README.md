@@ -40,7 +40,6 @@
 ![](https://img.shields.io/badge/Testing%20Library-%20-black?style=flat&logo=testing-library&color=e33332&logoColor=white)
 ![](https://img.shields.io/badge/cypress-%20-black?style=flat&logo=cypress&color=058a5e)
 
-![](https://img.shields.io/badge/REST-%20-black?style=flat&logo=.net&color=55a9ff)
 ![](https://img.shields.io/badge/GraphQL-%20-black?style=flat&logo=graphql&color=e10098)
 ![](https://img.shields.io/badge/Firebase-%20-black?style=flat&logo=firebase&color=ffca28&logoColor=white)
 ![](https://img.shields.io/badge/AWS-%20-black?style=flat&logo=amazon-aws&color=23FF99&logoColor=white)
