@@ -1,4 +1,6 @@
 # ✨ Hey!, I'm Parsa
+#  I'm a Frontend Engineer!
+
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/parsakhosravan1)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakhosravani/)
@@ -56,4 +58,3 @@
 <br/>
 
 
-- ⚡ I'm a front-end developer!
