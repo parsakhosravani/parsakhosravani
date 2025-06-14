@@ -49,6 +49,7 @@ My expertise includes designing architectures for large-scale projects, implemen
 ![](https://img.shields.io/badge/CSS3-%20-black?style=flat&logo=css3&color=1572b6)
 ![](https://img.shields.io/badge/Sass-%20-black?style=flat&logo=sass&color=cc6699)
 ![](https://img.shields.io/badge/styled%20components-%20-black?style=flat&logo=styled-components&color=db7093)
+![](https://img.shields.io/badge/Tailwind-%20-black?style=flat&logo=tailwind-css&color=38bdf8)
 
 **Databases:**
 
@@ -91,7 +92,7 @@ My expertise includes designing architectures for large-scale projects, implemen
 
 ---
 
-### 🖼️ Visual Tech Stack
+### 🖼️ Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -104,13 +105,10 @@ My expertise includes designing architectures for large-scale projects, implemen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" />
 </p>
-
----
-
