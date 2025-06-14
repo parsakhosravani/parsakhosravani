@@ -8,7 +8,7 @@
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FCA8&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Parsa+Khosravani! +Software+Engineer+|+React+|+Node.js;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FCA8&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Parsa+Khosravani S+oftware+Engineer+|+React+|+Node.js;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
 
 
 ---
