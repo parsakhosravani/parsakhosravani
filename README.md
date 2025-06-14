@@ -94,8 +94,6 @@ My expertise includes designing architectures for large-scale projects, implemen
 
 ### 🖼️ Tech Stack
 
-### 🖼️ Visual Tech Stack
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
