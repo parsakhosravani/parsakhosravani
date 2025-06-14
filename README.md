@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=parsakhosravani.parsakhosravani)
 
 ---
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FCA8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Parsa+Khosravani!;Software%20Engineer%20%7C%20React%20%7C%20Node.js;Open%20Source%20Enthusiast%20%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FCA8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Parsa+Khosravani!; Software%20Engineer%20%7C%20React%20%7C%20Node.js;Open%20Source%20Enthusiast%20%F0%9F%9A%80" />
 
 ---
 
