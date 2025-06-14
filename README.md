@@ -7,86 +7,116 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FCA8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Parsa+Khosravani!;Software+Engineer+%7C+React+%7C+Node.js;Open+Source+Enthusiast+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FCA8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Parsa+Khosravani!;Software+Engineer+%7C+React+%7C+Node.js;Tailwind+%7C+TypeScript+%7C+Next.js" />
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a software engineer with 8 years of experience, including 5 years specializing in React, and skills in backend development with Node.js and Express. I’ve worked in startups and corporations across sectors like finance and ecommerce, impacting millions of users.  
-My expertise includes designing architectures for large-scale projects, implementing unique features, writing unit tests, and improving performance metrics.
+I’m a software engineer with 8 years of experience, including 5 years focused on React. I design scalable systems using **Node.js**, **Express**, **TypeScript**, and **TailwindCSS**.  
+My mission: building elegant, performant, and maintainable web apps that serve real users.
 
 ---
 
-### 🛠 Tech Stack
+### ⚒️ Tech Stack
 
-**Languages & Frameworks:**
+**Frontend:**
 
-![](https://img.shields.io/badge/JavaScript-%20-yellow?style=flat&logo=javascript&color=f7df1d)
-![](https://img.shields.io/badge/TypeScript-%20-blue?style=flat&logo=typescript&color=297acb)
-![](https://img.shields.io/badge/Node.js-%20-black?style=flat&logo=node.js&color=339933)
-![](https://img.shields.io/badge/Express-%20-black?style=flat&logo=express&color=000000)
-![](https://img.shields.io/badge/React-%20-blue?style=flat&logo=react&color=61dafb)
-![](https://img.shields.io/badge/Redux-%20-blue?style=flat&logo=redux&color=764abc)
-![](https://img.shields.io/badge/Vue-%20-blue?style=flat&logo=vuedotjs&color=4fc08d)
-![](https://img.shields.io/badge/Vuex-%20-black?style=flat&logo=vuedotjs&color=764abc)
-![](https://img.shields.io/badge/Next.js-%20-black?style=flat&logo=next.js)
-
-**Testing:**
-
-![](https://img.shields.io/badge/Jest-%20-black?style=flat&logo=jest&color=c21325)
-![](https://img.shields.io/badge/Testing%20Library-%20-black?style=flat&logo=testing-library&color=e33332)
-![](https://img.shields.io/badge/Cypress-%20-black?style=flat&logo=cypress&color=058a5e)
-
-**Tools & Platforms:**
-
-![](https://img.shields.io/badge/GraphQL-%20-black?style=flat&logo=graphql&color=e10098)
-![](https://img.shields.io/badge/Firebase-%20-black?style=flat&logo=firebase&color=ffca28)
-![](https://img.shields.io/badge/AWS-%20-black?style=flat&logo=amazon-aws&color=23FF99)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+</p>
 
 **Styling:**
 
-![](https://img.shields.io/badge/CSS3-%20-black?style=flat&logo=css3&color=1572b6)
-![](https://img.shields.io/badge/Sass-%20-black?style=flat&logo=sass&color=cc6699)
-![](https://img.shields.io/badge/styled%20components-%20-black?style=flat&logo=styled-components&color=db7093)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
 
-**Databases:**
+**Backend:**
 
-![](https://img.shields.io/badge/PostgreSQL-%20-black?style=flat&logo=postgresql&color=336791)
-![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=mongodb&color=47A248)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" />
+</p>
+
+**Database:**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+</p>
+
+**Testing:**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" />
+</p>
+
+**Cloud & DevOps:**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<a href="https://github.com/parsakhosravani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parsakhosravani&hide=stars&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github.com/parsakhosravani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=parsakhosravani&show_icons=true&hide=stars&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<a href="https://github.com/parsakhosravani">
-  <img src="https://github-profile-trophy.vercel.app/?username=parsakhosravani&theme=darkhub" alt="GitHub Trophy" />
-</a>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=parsakhosravani&theme=darkhub" />
+</p>
 
 ---
 
-### 🔥 Streak Stats
+### 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parsakhosravani&theme=dark)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parsakhosravani&theme=dark" />
+</p>
 
 ---
 
-### 📫 Reach Me
+### 🚀 More Features to Add (Optional)
 
-- Email: [parsakhosravani@gmail.com](mailto:parsakhosravani@gmail.com)
-- LinkedIn: [linkedin.com/in/parsakhosravani](https://linkedin.com/in/parsakhosravani)
-- Twitter: [@parsakhosravan1](https://twitter.com/parsakhosravan1)
+- ⏰ Local time & timezone  
+- 📝 Auto-updated Dev.to/Medium blog posts  
+- 📌 Pinned repositories section  
+- 🧑‍💻 Currently working on... section  
+- 📈 Weekly coding stats via Wakatime  
+
+Want any of those? I’ll help you add them right away.
+
+---
+
+### 📫 Let's Connect
+
+📧 [parsakhosravani@gmail.com](mailto:parsakhosravani@gmail.com)  
+🔗 [linkedin.com/in/parsakhosravani](https://linkedin.com/in/parsakhosravani)  
+🐦 [twitter.com/parsakhosravan1](https://twitter.com/parsakhosravan1)
 
 ---
