@@ -8,7 +8,7 @@
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FCA8&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Parsa+Khosravani ,Software+Engineer+|+React+|+Node.js;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Parsa+Khosravani!;Software+Engineer+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
 
 
 ---
