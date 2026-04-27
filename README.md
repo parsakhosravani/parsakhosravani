@@ -14,8 +14,11 @@
 
 ### 👨‍💻 About Me
 
-I’m a software engineer with 8 years of experience, including 5 years specializing in React, and skills in backend development with Node.js and Express. I’ve worked in startups and corporations across sectors like finance and ecommerce, impacting millions of users.  
-My expertise includes designing architectures for large-scale projects, implementing unique features, writing unit tests, and improving performance metrics.
+At work, I tend to think creatively and I’m comfortable adapting when things change. I’m direct in how I communicate, but I also try to keep interactions friendly and genuine.
+In social settings, I usually bring a good level of energy while not being overly pushy or dominant.
+I can be quite reactive and energetic, though I still respect structure and rules when they matter.
+In team environments, I’m confident in sharing my perspective, but I also value collaboration and tend to trust the people I work with.
+One of my main strengths is solving problems in a logical way. I like identifying patterns and relying on proven approaches to reach solid conclusions.
 
 ---
 
