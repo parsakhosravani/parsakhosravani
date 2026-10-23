@@ -1,116 +1,152 @@
-# ✨ Hey there, I'm Parsa!
+<div align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%20-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/parsakhosravan1)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakhosravani/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-%20-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:parsakhosravani@gmail.com)
+# Hi, I'm Parsa Khosravani 👋
 
----
+**Frontend Engineer** · React · TypeScript · Next.js · Vue · Angular
 
+I build fast, reliable web apps for products where every second matters:<br/>
+live market data, high-traffic ecommerce, travel booking — and browser games on the side.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Parsa+Khosravani!;Software+Engineer+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-parsakhosravani.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=white)](https://parsakhosravani.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakhosravani/)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsakhosravani@gmail.com)
+[![X](https://img.shields.io/badge/X-@parsakhosravan1-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/parsakhosravan1)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Real-time+trading+UIs+%E2%80%A2+Angular+%2B+Lightstreamer;Ecommerce+for+50%2C000%2B+shoppers+%E2%80%A2+Vue+%2F+Nuxt;Travel+%26+visa+flows+%E2%80%A2+React;Browser+games+%E2%80%A2+Next.js+%2B+Three.js)](https://parsakhosravani.vercel.app)
 
----
+🌍 **Open to frontend roles in the Netherlands & Germany (relocation)**
 
-### 👨‍💻 About Me
-
-At work, I tend to think creatively and I’m comfortable adapting when things change. I’m direct in how I communicate, but I also try to keep interactions friendly and genuine.
-In social settings, I usually bring a good level of energy while not being overly pushy or dominant.
-I can be quite reactive and energetic, though I still respect structure and rules when they matter.
-In team environments, I’m confident in sharing my perspective, but I also value collaboration and tend to trust the people I work with.
-One of my main strengths is solving problems in a logical way. I like identifying patterns and relying on proven approaches to reach solid conclusions.
+</div>
 
 ---
 
-### 🛠 Tech Stack
+## 💼 What I've worked on
 
-**Languages & Frameworks:**
+| | Company | What I did |
+|---|---|---|
+| 📈 | **Mofid Securities** · Tehran<br/><sub>Aug 2023 – now · Angular</sub> | Real-time trading screens for a large brokerage: wired **Lightstreamer** live prices into **AG Grid** for lower latency, and worked on legacy-to-modern migration, the design system and monitoring. |
+| ✈️ | **AMR Tech** · Dubai<br/><sub>Aug 2022 – Jul 2023 · React</sub> | Travel and visa booking flows at startup speed. Cut load times by lazy-loading heavy components and trimming libraries, and built an **AI image-to-form** flow that fills visa applications automatically. |
+| 🛍️ | **Khanoumi** · Tehran<br/><sub>Mar 2021 – Aug 2022 · Vue / Nuxt</sub> | Online store kept fast and stable through campaign peaks with **50,000+ customers**, and modernized the codebase so the team could ship safely. |
+| 📚 | **YecomSoft** | First professional role: a bilingual audiobook store and EPUB automation tools. |
 
-![](https://img.shields.io/badge/JavaScript-%20-yellow?style=flat&logo=javascript&color=f7df1d)
-![](https://img.shields.io/badge/TypeScript-%20-blue?style=flat&logo=typescript&color=297acb)
-![](https://img.shields.io/badge/Node.js-%20-black?style=flat&logo=node.js&color=339933)
-![](https://img.shields.io/badge/Express-%20-black?style=flat&logo=express&color=000000)
-![](https://img.shields.io/badge/React-%20-blue?style=flat&logo=react&color=61dafb)
-![](https://img.shields.io/badge/Redux-%20-blue?style=flat&logo=redux&color=764abc)
-![](https://img.shields.io/badge/Vue-%20-blue?style=flat&logo=vuedotjs&color=4fc08d)
-![](https://img.shields.io/badge/Vuex-%20-black?style=flat&logo=vuedotjs&color=764abc)
-![](https://img.shields.io/badge/Next.js-%20-black?style=flat&logo=next.js)
-
-**Testing:**
-
-![](https://img.shields.io/badge/Jest-%20-black?style=flat&logo=jest&color=c21325)
-![](https://img.shields.io/badge/Testing%20Library-%20-black?style=flat&logo=testing-library&color=e33332)
-![](https://img.shields.io/badge/Cypress-%20-black?style=flat&logo=cypress&color=058a5e)
-
-**Tools & Platforms:**
-
-![](https://img.shields.io/badge/GraphQL-%20-black?style=flat&logo=graphql&color=e10098)
-![](https://img.shields.io/badge/Firebase-%20-black?style=flat&logo=firebase&color=ffca28)
-![](https://img.shields.io/badge/AWS-%20-black?style=flat&logo=amazon-aws&color=23FF99)
-
-**Styling:**
-
-![](https://img.shields.io/badge/CSS3-%20-black?style=flat&logo=css3&color=1572b6)
-![](https://img.shields.io/badge/Sass-%20-black?style=flat&logo=sass&color=cc6699)
-![](https://img.shields.io/badge/styled%20components-%20-black?style=flat&logo=styled-components&color=db7093)
-![](https://img.shields.io/badge/Tailwind-%20-black?style=flat&logo=tailwind-css&color=38bdf8)
-
-**Databases:**
-
-![](https://img.shields.io/badge/PostgreSQL-%20-black?style=flat&logo=postgresql&color=336791)
-![](https://img.shields.io/badge/MongoDB-%20-black?style=flat&logo=mongodb&color=47A248)
+The full story, told chapter by chapter in React, Vue and Angular, is on my **[portfolio →](https://parsakhosravani.vercel.app)**
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Featured projects
 
-<a href="https://github.com/parsakhosravani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parsakhosravani&hide=stars&show_icons=true&theme=dark" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/parsakhosravani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&theme=dark" />
-</a>
+### ⚔️ [Valorians Legend](https://github.com/parsakhosravani/valorians-frontend)
+A Telegram Mini App strategy game: grow a tribe, build 24 buildings, train an army, raid players and barbarian camps, climb the leaderboard.
+
+- Server-authoritative — every tap and upgrade is validated, with Telegram `initData` HMAC sign-in
+- Safe concurrent saves via versioning and retries
+- Tested battle engine shared by server and client
+
+`Next.js` `TypeScript` `SQLite / Turso` `Telegram Mini Apps`
+
+**[▶ Play](https://valorians-legend.vercel.app)** · [Code](https://github.com/parsakhosravani/valorians-frontend)
+
+</td>
+<td width="50%" valign="top">
+
+### ♟️ [CheckRealm](https://github.com/parsakhosravani/checkrealm)
+A 3D browser strategy game in the spirit of Travian, rebuilt around chess: build a kingdom, train pawns to queens, march on rival keeps.
+
+- 3D board, kingdom and army views with React Three Fiber
+- AI houses with personalities that expand and raid you
+- Online mode with accounts, cloud saves and a live WebSocket leaderboard
+
+`React 19` `Three.js` `Vite` `Node / ws`
+
+**[▶ Play](https://checkrealm.vercel.app)** · [Code](https://github.com/parsakhosravani/checkrealm)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [Story Portfolio](https://github.com/parsakhosravani/parsa)
+My career told as a story, with one chapter per framework — the React, Vue and Angular pages are each built in that framework inside one Next.js app.
+
+`Next.js` `Vue` `Angular` `Tailwind`
+
+**[▶ Visit](https://parsakhosravani.vercel.app)** · [Code](https://github.com/parsakhosravani/parsa)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ [indexed-database](https://github.com/parsakhosravani/indexed-database)
+A small, typed, Promise-based wrapper for IndexedDB with cursor queries, key-range helpers, atomic bulk writes and safe schema upgrades.
+
+`TypeScript` `IndexedDB` `Jest`
+
+[Code](https://github.com/parsakhosravani/indexed-database) · [Usage](https://github.com/parsakhosravani/indexed-database/blob/main/USAGE.md)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠️ Tech I use
 
-<a href="https://github.com/parsakhosravani">
-  <img src="https://github-profile-trophy.vercel.app/?username=parsakhosravani&theme=darkhub" alt="GitHub Trophy" />
-</a>
+**Daily**<br/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,vue,tailwind,sass&theme=dark" alt="TypeScript, React, Next.js, Angular, Vue, Tailwind, Sass" />
 
----
+**Also comfortable with**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,redux,threejs,postgres,mongodb,firebase,aws&theme=dark" alt="Node.js, Express, GraphQL, Redux, Three.js, PostgreSQL, MongoDB, Firebase, AWS" />
 
-### 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parsakhosravani&theme=dark)
-
----
-
-### 📫 Reach Me
-
-- Email: [parsakhosravani@gmail.com](mailto:parsakhosravani@gmail.com)  
-- LinkedIn: [linkedin.com/in/parsakhosravani](https://linkedin.com/in/parsakhosravani)  
-- Twitter: [@parsakhosravan1](https://twitter.com/parsakhosravan1)  
+**Testing & tooling**<br/>
+<img src="https://skillicons.dev/icons?i=jest,cypress,vite,webpack,git,vercel&theme=dark" alt="Jest, Cypress, Vite, Webpack, Git, Vercel" />
 
 ---
 
-### 🖼️ Tech Stack 
+## 🧭 How I work
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40" alt="Cypress" />
-</p>
+- **Performance is a feature.** I measure first, then lazy-load, split and trim until the page feels calm.
+- **Business goal → technical plan.** I like turning a fuzzy goal into a clear design the team can ship.
+- **Make the next change safe.** Types, tests and a shared design system so the team can move fast without fear.
+- **Clear and direct.** I say what I think, then commit to the team's decision.
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=parsakhosravani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=parsakhosravani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&hide_border=true&langs_count=6&theme=github_dark" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakhosravani&layout=compact&hide_border=true&langs_count=6&theme=default" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=parsakhosravani&hide_border=true&theme=github-dark-blue" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=parsakhosravani&hide_border=true&theme=default" />
+</picture>
+
+</div>
+
+<details>
+<summary><b>⏱️ This week I spent my time on</b></summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+---
+
+<div align="center">
+
+**Hiring for a frontend role in Europe? I'd love to talk.**<br/>
+📫 [parsakhosravani@gmail.com](mailto:parsakhosravani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/parsakhosravani/) · [Portfolio](https://parsakhosravani.vercel.app)
+
+</div>
