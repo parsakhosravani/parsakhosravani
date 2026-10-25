@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: '15 */12 * * *'
   workflow_dispatch:
-  
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -12,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Setup WakaTime Readme Stats
-        uses: athul/waka-readme@v2.3.1
+        uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
